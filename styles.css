@@ -1,0 +1,46 @@
+*{margin: 0;}
+
+header {
+    background-color: #88b47f;
+    background-position: top;
+    padding-left: 40px;
+}
+.container {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 0px;
+}
+#first {
+    float: left;
+}
+.img {
+    position: relative;
+}
+#map {
+    position: relative;
+}
+#sprite {
+    position: absolute;
+    top: 160px;
+    left: 180px;
+}
+#second {
+    float: left;
+    background-color: #fdcec6;
+    text-align: center;
+    height: 500px;
+}
+.rightcolumn {
+    padding: 10px;
+}
+button {
+    border-radius: 15px;
+    margin-bottom: 2px;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    background-color: #bdb76b;
+}
